@@ -1,4 +1,4 @@
-# Iterative decoding of serially concatenated convolutional codes using the log BCJR algorithm
+# Iterative decoding of serially concatenated convolutional codes using the logBCJR algorithm
 
 
 
